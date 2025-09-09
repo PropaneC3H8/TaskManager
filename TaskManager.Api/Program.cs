@@ -13,6 +13,14 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    db.Database.EnsureCreated();
+    db.Database.ExecuteSqlRaw("PRAGMA journal_mode=WAL;");     // better read/write concurrency
+    db.Database.ExecuteSqlRaw("PRAGMA busy_timeout=5000;");    // wait up to 5s before giving up
+}
+
 if (app.Environment.IsDevelopment()) { app.UseSwagger(); app.UseSwaggerUI(); }
 
 app.MapGet("/api/tasks", async (AppDbContext db) =>
