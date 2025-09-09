@@ -1,0 +1,11 @@
+c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Domain\bin\Debug\net9.0\TaskManager.Domain.deps.json
+c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Domain\bin\Debug\net9.0\TaskManager.Domain.dll
+c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Domain\bin\Debug\net9.0\TaskManager.Domain.pdb
+c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.AssemblyInfoInputs.cache
+c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.AssemblyInfo.cs
+c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.csproj.CoreCompileInputs.cache
+c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.dll
+c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net9.0\refint\TaskManager.Domain.dll
+c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.pdb
+c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net9.0\ref\TaskManager.Domain.dll
