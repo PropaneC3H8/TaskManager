@@ -106,3 +106,4 @@ c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Tests.Unit\obj\D
 c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Tests.Unit\obj\Debug\net9.0\TaskManager.Tests.Unit.pdb
 c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Tests.Unit\obj\Debug\net9.0\TaskManager.Tests.Unit.genruntimeconfig.cache
 c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Tests.Unit\obj\Debug\net9.0\ref\TaskManager.Tests.Unit.dll
+c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Tests.Unit\obj\Debug\net9.0\TaskManager.Tests.Unit.sourcelink.json

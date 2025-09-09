@@ -452,3 +452,4 @@ c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Tests.Integratio
 c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Tests.Integration\obj\Debug\net9.0\TaskManager.Tests.Integration.pdb
 c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Tests.Integration\obj\Debug\net9.0\TaskManager.Tests.Integration.genruntimeconfig.cache
 c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Tests.Integration\obj\Debug\net9.0\ref\TaskManager.Tests.Integration.dll
+c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Tests.Integration\obj\Debug\net9.0\TaskManager.Tests.Integration.sourcelink.json
