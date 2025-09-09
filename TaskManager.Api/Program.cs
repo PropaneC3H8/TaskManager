@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Use SQLite file locally; integration tests will override to in-memory SQLite
 builder.Services.AddDbContext<AppDbContext>(opt =>
-    opt.UseSqlite(builder.Configuration.GetConnectionString("Default") ?? "Data Source=tasks.db"));
+    opt.UseSqlite(builder.Configuration.GetConnectionString("Default") ?? "Data Source=tasks.db;Cache=Shared;Pooling=True"));
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
