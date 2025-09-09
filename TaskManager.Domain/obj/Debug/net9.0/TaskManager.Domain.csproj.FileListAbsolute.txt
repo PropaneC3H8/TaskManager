@@ -9,3 +9,4 @@ c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Domain\obj\Debug
 c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net9.0\refint\TaskManager.Domain.dll
 c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.pdb
 c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net9.0\ref\TaskManager.Domain.dll
+C:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.sourcelink.json

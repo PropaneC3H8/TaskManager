@@ -77,3 +77,4 @@ c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Api\obj\Debug\ne
 c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Api\obj\Debug\net9.0\TaskManager.Api.pdb
 c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Api\obj\Debug\net9.0\TaskManager.Api.genruntimeconfig.cache
 c:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Api\obj\Debug\net9.0\ref\TaskManager.Api.dll
+C:\Users\VuyisananiNongena\source\repos\TaskManager\TaskManager.Api\obj\Debug\net9.0\TaskManager.Api.sourcelink.json
